@@ -1,1 +1,2 @@
-# Genomics-Project
+# Molecular diagnosis of rare genetic disorders
+## Genomics Project
